@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Mariana 👋
 
-<!--
-**MarianaPereira04/MarianaPereira04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems Engineering student with a strong interest in software development.
 
-Here are some ideas to get you started:
+I enjoy building projects to understand how things work behind the scenes and to continuously improve my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I have worked with
+- Java and object-oriented programming principles
+- TypeScript
+- React, Next.js and NestJS
+- Mobile development
+- PostgreSQL and MySQL
+- Git & GitHub
+
+## Currently learning
+- Fullstack development
+- Better practices for backend and frontend development
+- Writing cleaner, more organized, and maintainable code
+
+## Projects
+Here you can find academic and personal projects focused on learning and applying real-world development practices.
+
+## Goals
+- Build solid and well-structured projects
+- Keep learning technologies used in the industry
+- Grow as a software developer
