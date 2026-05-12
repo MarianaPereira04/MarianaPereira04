@@ -1,26 +1,50 @@
 # Hi, I'm Mariana 👋
 
-I'm a Systems Engineering student with a strong interest in software development.
+Systems Engineering student focused on Fullstack Web Development with JavaScript and TypeScript.
 
-I enjoy building projects to understand how things work behind the scenes and to continuously improve my programming skills.
+I enjoy building real-world projects to improve my backend and frontend skills, learn software architecture, and apply development best practices.
 
-## What I have worked with
-- Java and object-oriented programming principles
+## Tech Stack
+
+### Frontend
+- React.js
+- Next.js
 - TypeScript
-- React, Next.js and NestJS
-- Mobile development
-- PostgreSQL and MySQL
-- Git & GitHub
+- HTML5 & CSS3
 
-## Currently learning
-- Fullstack development
-- Better practices for backend and frontend development
-- Writing cleaner, more organized, and maintainable code
+### Backend
+- NestJS
+- Node.js
+- REST APIs
+- Authentication & backend structure
+
+### Databases
+- PostgreSQL
+- MySQL
+
+### Tools & DevOps
+- Git & GitHub
+- Docker
+- Postman
+
+## What I’m Currently Learning
+- Scalable backend architecture
+- Clean code and maintainable applications
+- Fullstack application development
+- Better practices for React and NestJS projects
 
 ## Projects
-Here you can find academic and personal projects focused on learning and applying real-world development practices.
+
+Here you can find academic and personal projects focused on:
+- Fullstack web applications
+- Backend API development
+- Frontend interfaces with React and Next.js
+- Database integration
+- Dockerized environments
+- Software architecture and development practices
 
 ## Goals
-- Build solid and well-structured projects
-- Keep learning technologies used in the industry
-- Grow as a software developer
+- Continue growing as a Fullstack Developer
+- Build scalable and well-structured applications
+- Gain professional experience in modern web technologies
+- Contribute to real development teams and projects
